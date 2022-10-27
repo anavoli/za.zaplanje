@@ -9,6 +9,8 @@ imgAlt: umetnost košenja
 tags:
   - zaplanje
 ---
+Draganov Raj!
+
 ![zaplanje](../../static/images/313093819_1233778340532775_1557304470797828959_n.jpg "prijatelji")
 
 ![zaplanje](../../static/images/312988683_488969556623196_100008181565771450_n.jpg "raj")
