@@ -9,4 +9,4 @@ imgAlt: prevodilac zaplanjsko-srpski
 tags:
   - prevodilac zaplanjsko-srpski
 ---
-<iframe src="http://lingojam.com/embed/srpskozaplanjski" style="width:700px; height:300px;"></iframe>
+`<iframe src="http://lingojam.com/embed/srpskozaplanjski" style="width:700px; height:300px;"></iframe>`
