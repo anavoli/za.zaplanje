@@ -19,4 +19,8 @@ tags:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/98590749@N07/albums/72157713407236778" title="Sokolov kamen 25.01.2020"><img src="https://live.staticflickr.com/65535/49633934743_5f592f9293_z.jpg" width="640" height="480" alt="Sokolov kamen 25.01.2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/98590749@N07/albums/72157650447786152" title="Sokolov kamen 11.11.2014"><img src="https://live.staticflickr.com/8605/16356490272_717c7f2427_z.jpg" width="640" height="480" alt="Sokolov kamen 11.11.2014"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/98590749@N07/albums/72157651089374869" title="Jaglicije 21.03.2015"><img src="https://live.staticflickr.com/7586/16899210095_d03cec9a84_z.jpg" width="640" height="480" alt="Jaglicije 21.03.2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 >
