@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Pogled sa Golemog Stražišta- MilosGolubovic
+title: Pogled sa Golemog Stražišta
 publishedDate: 2023-02-07T17:13:02.042Z
-description: Pogled sa Golemog Stražišta prema Tremu.
+description: Pogled sa Golemog Strazista prema Tremu.
 featured: true
 img: ../../static/images/stražište-zimi2.jpg
 imgAlt: Golemo Stražište
