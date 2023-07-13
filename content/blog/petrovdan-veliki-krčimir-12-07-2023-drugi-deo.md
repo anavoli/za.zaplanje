@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: PETROVDAN, VELIKI KRČIMIR 12.07.2023
-publishedDate: 2023-07-13T12:48:11.091Z
+publishedDate: 2023-07-12T12:48:11.091Z
 description: Red je poštovani prijatelji da kažemo nešto i o dvema crkvama
   "Vaznesenja gospodnjeg", maloj i velikoj u čijem dvorištu se i održao narodni
   sabor
